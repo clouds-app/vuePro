@@ -5,3 +5,5 @@ how do I update my file without add file ,just modify file.
 when u want to push your modify code ,you need to use 'git add .' 
 and then use 'git commit -m 'you remark'
 at last ,you can push your code with 'git push origin master'
+
+我尝试在Windows 7 上面同步代码，然后提交到我的git 上面去的。
