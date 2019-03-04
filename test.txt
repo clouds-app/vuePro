@@ -1,3 +1,7 @@
 git test url....
 
 how do I update my file without add file ,just modify file.
+
+when u want to push your modify code ,you need to use 'git add .' 
+and then use 'git commit -m 'you remark'
+at last ,you can push your code with 'git push origin master'
