@@ -1,9 +1,8 @@
-git test url....
+it test url....
 
-this is my new branch 'dev';
+this is my master source code
 
-how do I update my file without add file ,just modify file.
-ΩΩ 
+how do I update my file without add file ,just modify file. 
 
 when u want to push your mod`ify code ,you need to use 'git add .' 
 and then use 'git commit -m 'you remark'
