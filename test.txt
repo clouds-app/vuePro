@@ -1,1 +1,3 @@
 git test url....
+
+how do I update my file without add file ,just modify file.
